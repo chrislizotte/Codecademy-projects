@@ -1,5 +1,5 @@
 Hello!
 
-This is a Codecademy Git tutorial.
+This is a space for projects I complete with Codecademy.
 
-GitHub Desktop makes interacting with Git easy!
+More information will follow as I build out this page.
